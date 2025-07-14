@@ -25,5 +25,5 @@ The main goal of the project is to enhance frontend development skills and under
 - Responsive design (if implemented)
 - Clean and organized code structure
 
-## 📂 Folder Structure
+
 
